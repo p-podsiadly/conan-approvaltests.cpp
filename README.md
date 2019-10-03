@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/approvaltests.cpp%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/approvaltests.cpp%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-approvaltests.cpp?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-approvaltests.cpp)|[![Build Status](https://travis-ci.com/bincrafters/conan-approvaltests.cpp.svg)](https://travis-ci.com/bincrafters/conan-approvaltests.cpp)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/approvaltests.cpp%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/approvaltests.cpp%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/rj9ary4aa02ejr64?svg=true)](https://ci.appveyor.com/project/p-podsiadly/conan-approvaltests-cpp)|[![Build Status](https://travis-ci.org/p-podsiadly/conan-approvaltests.cpp.svg)](https://travis-ci.org/p-podsiadly/conan-approvaltests.cpp)|
 
 ## Conan Information
 
