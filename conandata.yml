@@ -1,4 +1,7 @@
 sources:
+  "6.0.0":
+    url: "https://github.com/approvals/ApprovalTests.cpp/releases/download/v.6.0.0/ApprovalTests.v.6.0.0.hpp"
+    sha256: "37ef325527387f16d7a804b036b3d323368a0052eca07c9e11f7631cc0038a95"
   "5.1.0":
     url: "https://github.com/approvals/ApprovalTests.cpp/releases/download/v.5.1.0/ApprovalTests.v.5.1.0.hpp"
     sha256: "545856c030eded83dc84ace3362d758355bd5f6862eb4037c2ec19a07a4db13d"

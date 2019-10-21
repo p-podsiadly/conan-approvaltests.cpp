@@ -4,7 +4,7 @@ import os
 
 class ApprovalTestsCppConan(ConanFile):
     name = "approvaltests.cpp"
-    version = "5.1.0"
+    version = "6.0.0"
     description = "Native ApprovalTests for C++ on Linux, Mac and Windows"
     topics = ("testing", "approval tests")
     url = "https://github.com/p-podsiadly/approvaltests.cpp"
