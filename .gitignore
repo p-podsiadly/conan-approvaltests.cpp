@@ -40,3 +40,5 @@ tmp/
 # IDE
 .idea/*
 .vscode/*
+
+/test/
